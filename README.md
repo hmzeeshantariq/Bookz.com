@@ -7,5 +7,5 @@ This website has two types of users:
 
 Staff members can borrow any book. But this web application shows only books with even IDs. Meaning students can borrow can only books with even IDs.
 
-Staff members can login with ID = 007 and Password = staff
+Staff members can login with ID = 007 and Password = staff.
 Students can login with with their ID = 1306 and Password = 1306
